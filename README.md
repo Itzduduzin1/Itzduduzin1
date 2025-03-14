@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://itzduduzin1.github.io/ducalofc-portfolio/img/logo.png"  />
 
 ###
 
@@ -43,7 +43,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://itzduduzin1.github.io/ducalofc-portfolio/img/logo.png" alt="ducalofc" />
 
 ###
