@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Itzduduzin1/Itzduduzin1/output/snake.svg" alt="Snake animation" />
+<img src="https://itzduduzin1.github.io/ducalofc-portfolio/img/logo.png" alt="ducalofc" />
 
 ###
